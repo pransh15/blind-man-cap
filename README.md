@@ -7,6 +7,7 @@ The ultrasonic is affixed on the cap, and the buzzer makes the sound whenever it
 
 **Code:**
 
+
 ``` int echo=5; // define echo pin of ultrasonic 
 int trig=4; // define trigger pin of ultrasonic 
 int buzz=3; // define  pin for buzzer 
